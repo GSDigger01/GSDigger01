@@ -35,7 +35,7 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 ### 🧩 **Expense Analysis – ETL & Power BI Dashboard**
 > End-to-end ETL project built with SQL Server (Bronze → Silver → Gold) & Power BI.  
 > Includes data quality rules, logging, and a star-schema model for financial reporting.  
-**Tech:** SQL Server, Stored Procedures, Power BI , Figma , Tabular editor
+**Tech:** SQL Server, Stored Procedures, Power BI , Figma , Tabular editor  
 📊 [View on GitHub](https://github.com/GSDigger01/Expense_Analysis_PowerBI)
 
 ---
@@ -43,21 +43,21 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 ### 🧠 **Store & customers Analysis with Power BI**
 > RFM segmentation to optimize marketing campaigns and target high-value customers.  
 > Advanced visualization and interactive Power BI dashboard for business teams.  
-**Tech:** Python, Power BI services , Figma, Tabular Editor 
+**Tech:** Python, Power BI services , Figma, Tabular Editor   
 📊 [View on GitHub](https://github.com/GSDigger01/Fashion-store-analysis)
 
 ---
 ### 🧠 **Customer Segmentation & RFM Analysis**
 > RFM segmentation to optimize marketing campaigns and target high-value customers.
 > Visualization with Plotly.
-**Tech:** Python , plotly , jupyter Notebook
+**Tech:** Python , plotly , jupyter Notebook  
 📊 [View on GitHub](https://github.com/GSDigger01/RFM-Segmentation)
 
 ---
 ### 🏦 **Bank Customer Churn Prediction**
 > Predicting customer churn for a banking institution to support retention strategy.  
 > Complete Dataiku pipeline (Bronze → Silver → Gold) with ML model evaluation and Power BI insights.  
-**Tech:** Dataiku, Python, Scikit-learn, Power BI  
+**Tech:** Dataiku, Python, Scikit-learn, Power BI    
 📈 *(Coming soon on GitHub)*
 
 ---
@@ -74,8 +74,8 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
   → Facilitation of a module to raise awareness among entrepreneurs and professionals about key data concepts. 
 - **ONISEP** – BI Data Analyst (Sales, Marketing, Advertising)  
   → Migrated 90% of legacy reports to Qlik Cloud, automated KPIs for faster business decisions.  
-- **SAINA-HITE** – Data Analyst (Data quality , R&D)
-  → Built a Python pipeline reducing anomalies by 35%  and increase customer satisfaction
+- **SAINA-HITE** – Data Analyst (Data quality , R&D)  
+  → Built a Python pipeline reducing anomalies by 35%  and increase customer satisfaction  
 - **Express Union Finance** – BI Engineering Project  
   → Modeled a central Data Warehouse and automated ELT data flows for analysis.  
 
