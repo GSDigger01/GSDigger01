@@ -1,4 +1,4 @@
-![banner](./images/banner.png)
+![banner](./images/Banner.png)
 
 # 👋 Hello, I'm Francis NOGO  
 
