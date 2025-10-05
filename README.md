@@ -21,7 +21,7 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 - Business need collection & data-driven project management.  
 - BI solution design (Data Warehouse, Data Quality, Pipeline, Reporting).  
 - Agile collaboration with cross-functional teams.
-
+  
 ### 💻 Technical
 - **Languages:** Python (Pandas, Scikit-learn, Pyspark), SQL (advanced), DAX, M ,R  
 - **BI & Data Visualization:** Power BI, Qlik Sense, Excel  
@@ -40,19 +40,25 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 
 ---
 
+### 🧠 **Store & customers Analysis with Power BI**
+> RFM segmentation to optimize marketing campaigns and target high-value customers.  
+> Advanced visualization and interactive Power BI dashboard for business teams.  
+**Tech:** Python, Power BI services , Figma, Tabular Editor 
+📊 [View on GitHub](https://github.com/GSDigger01/Fashion-store-analysis)
+
+---
+### 🧠 **Customer Segmentation & RFM Analysis**
+> RFM segmentation to optimize marketing campaigns and target high-value customers.
+> Visualization with Plotly.
+**Tech:** Python , plotly , jupyter Notebook
+📊 [View on GitHub](https://github.com/GSDigger01/RFM-Segmentation)
+
+---
 ### 🏦 **Bank Customer Churn Prediction**
 > Predicting customer churn for a banking institution to support retention strategy.  
 > Complete Dataiku pipeline (Bronze → Silver → Gold) with ML model evaluation and Power BI insights.  
 **Tech:** Dataiku, Python, Scikit-learn, Power BI  
 📈 *(Coming soon on GitHub)*
-
----
-
-### 🧠 **Customer Segmentation & RFM Analysis**
-> RFM segmentation to optimize marketing campaigns and target high-value customers.  
-> Advanced visualization and interactive Power BI dashboard for business teams.  
-**Tech:** Python, Power BI   
-📊 [View on GitHub](#)
 
 ---
 
