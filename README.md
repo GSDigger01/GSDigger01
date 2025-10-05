@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Francis NOGO  
 
-### 🎯 Data Analyst BI | Analytics Engineering | Data Quality & Advanced DataViz  
+### 🎯 Data Analyst BI | Data Quality & Advanced DataViz | Analytics Engineering
 Transforming data into business value through automation, analytics, and storytelling.
 
 ---
@@ -35,7 +35,7 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 ### 🧩 **Expense Analysis – ETL & Power BI Dashboard**
 > End-to-end ETL project built with SQL Server (Bronze → Silver → Gold) & Power BI.  
 > Includes data quality rules, logging, and a star-schema model for financial reporting.  
-**Tech:** SQL Server, Stored Procedures, Power BI  
+**Tech:** SQL Server, Stored Procedures, Power BI , Figma , Tabular editor
 📊 [View on GitHub](https://github.com/GSDigger01/Expense_Analysis_PowerBI)
 
 ---
@@ -74,15 +74,15 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
   → Facilitation of a module to raise awareness among entrepreneurs and professionals about key data concepts. 
 - **ONISEP** – BI Data Analyst (Sales, Marketing, Advertising)  
   → Migrated 90% of legacy reports to Qlik Cloud, automated KPIs for faster business decisions.  
-- **SAINA-HITE** – Data Quality Analyst - R&D ( IT , Customer satisfaction)
-  → Built a Python pipeline reducing anomalies by 35%  
+- **SAINA-HITE** – Data Analyst (Data quality , R&D)
+  → Built a Python pipeline reducing anomalies by 35%  and increase customer satisfaction
 - **Express Union Finance** – BI Engineering Project  
-  → Modeled a central Data Warehouse and automated ELT data flows.  
+  → Modeled a central Data Warehouse and automated ELT data flows for analysis.  
 
 ---
 
 ## 📈 My Data Philosophy  
-> “A true Data Analyst doesn’t just build dashboards — they build **understanding**.  
+> “A true Data Analyst doesn’t just build dashboards — they master **the entire data value chain**, from raw data to **business impact**.  
 > My goal: bridge the gap between **data systems and business impact**.”
 
 ---
@@ -90,7 +90,6 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 ## 📫 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/francis-guy-stephane-nogo-a81bb3217/)  
 📧 [nogodata001@gmail.com](mailto:nogodata001@gmail.com)  
-🌍 [GitHub Portfolio](https://github.com/GSDigger01)
 
 ---
 
