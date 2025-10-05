@@ -48,8 +48,8 @@ Currently based in **Paris**, I’m passionate about building **scalable data so
 
 ---
 ### 🧠 **Customer Segmentation & RFM Analysis**
-> RFM segmentation to optimize marketing campaigns and target high-value customers.
-> Visualization with Plotly.
+> Built an RFM-based customer segmentation model leveraging Recency, Frequency, and Monetary value to identify behavioral patterns and high-value clients.  
+> Designed dynamic segments for personalized marketing actions and retention strategies.
 **Tech:** Python , plotly , jupyter Notebook  
 📊 [View on GitHub](https://github.com/GSDigger01/RFM-Segmentation)
 
