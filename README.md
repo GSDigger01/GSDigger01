@@ -33,7 +33,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 
 ## 🚀 Highlighted Projects  
 
-### 🧩 **Expense Analysis – ETL & Power BI Dashboard**  
+###  **Expense Analysis – ETL & Power BI Dashboard**  
 > **Goal:** Build a full ETL pipeline and financial dashboard with end-to-end data modeling.  
 > **Impact:** Automated data refresh & standardized reporting improving financial oversight.  
 **Tech Stack:** SQL Server, Power BI, Figma, Tabular Editor  
@@ -42,7 +42,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 
 ---
 
-### 🧠 **Store & Customers Analysis with Power BI**  
+###  **Store & Customers Analysis with Power BI**  
 > **Goal:** Perform RFM segmentation to target high-value customers.  
 > **Impact:** Improved marketing efficiency via advanced Power BI visual storytelling.  
 **Tech Stack:** Python, Power BI Services, Figma, Tabular Editor  
@@ -51,7 +51,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 
 ---
 
-### 📊 **Customer Segmentation & RFM Analysis (Python)**  
+###  **Customer Segmentation & RFM Analysis (Python)**  
 > **Goal:** Identify customer behavior patterns and loyalty segments using RFM metrics.  
 > **Impact:** Personalized retention strategies and improved campaign ROI.  
 **Tech Stack:** Python, Plotly, Jupyter Notebook  
@@ -60,7 +60,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 
 ---
 
-### 🏦 **Bank Customer Churn Prediction (Dataiku + Power BI)**  
+###  **Bank Customer Churn Prediction (Dataiku + Power BI)**  
 > **Goal:** Predict customer churn to support retention strategy.  
 > **Impact:** Dataiku pipeline integrating ML model & business dashboards.  
 **Tech Stack:** Dataiku, Python, Scikit-learn, Power BI  
