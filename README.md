@@ -1,8 +1,6 @@
 ![banner](Banner_link.png)
 
-<h1 align="center">👋🏾 Hello, I'm <span style="color:#4682B4">Francis NOGO</span></h1>
-
-<h3 align="center">🎯 Data Analyst BI | Data Quality & Advanced DataViz | Analytics Engineering</h3>
+<h2 align="center">👋🏾 Hello, I'm <span style="color:#4682B4">Francis NOGO</span></h2>
 <p align="center">
 Transforming data into <b>business value</b> through automation, analytics, and storytelling.
 </p>
