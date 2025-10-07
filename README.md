@@ -79,16 +79,16 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 
 ## 💼 Experience Snapshot  
 
-### **Bullart Business Academy** – *Data Training Consultant*  
+#### **Bullart Business Academy** – *Data Training Consultant*  
 🧩 Facilitated workshops to introduce entrepreneurs and professionals to key data concepts.  
 
-### **ONISEP** – *BI Data Analyst (Sales, Marketing, Advertising)*  
+#### **ONISEP** – *BI Data Analyst (Sales, Marketing, Advertising)*  
 ⚡ Migrated 90% of legacy reports to Qlik Cloud, automating KPIs and improving reporting agility.  
 
-### **SAINA-HITE** – *Data Analyst (Data Quality & R&D)*  
+#### **SAINA-HITE** – *Data Analyst (Data Quality & R&D)*  
 🧠 Built Python data quality pipelines reducing anomalies by **35%** and boosting customer satisfaction.  
 
-### **Express Union Finance** – *BI Engineering Project*  
+#### **Express Union Finance** – *BI Engineering Project*  
 🏗️ Modeled a central Data Warehouse and automated ELT data flows for analytical purposes.  
 
 ---
