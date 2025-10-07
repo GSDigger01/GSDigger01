@@ -38,7 +38,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 > **Impact:** Automated data refresh & standardized reporting improving financial oversight.  
 **Tech Stack:** SQL Server, Power BI, Figma, Tabular Editor  
 
-📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Expense_Analysis_PowerBI)
+📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Expenses-Analysis-SQLServer)
 
 ---
 
