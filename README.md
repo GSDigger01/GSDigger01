@@ -1,4 +1,4 @@
-![banner](Banner_link.png)
+![banner](Banner.png)
 
 <h2 align="center">👋🏾 Hello, I'm <span style="color:#4682B4">Francis NOGO</span></h2>
 <p align="center">
