@@ -25,7 +25,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 
 ### 💻 Technical Stack
 - **Languages:** Python (Pandas, Scikit-learn, PySpark), SQL (Advanced), DAX, M, R  
-- **Visualization:** Power BI, Qlik Sense, Excel
+- **Visualization:** Power BI, Qlik Sense, Excel  
 - **CRM & Marketing Analytics:** HubSpot, Google Analytics, Power BI Service
 - **Cloud & Engineering:** Azure Data Factory, Dataiku, SQL Server, PostgreSQL  
 - **Collaboration & DevOps:** GitHub, Trello, Confluence, Jira  
@@ -73,8 +73,8 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 ## 🌐 Certifications  
 
 🏅 Microsoft **PL-300: Power BI Data Analyst**  
-🏅 **Databricks fundamentals**
-🏅 **Data Analysis with Python** – freeCodeCamp
+🏅 **Databricks fundamentals**  
+🏅 **Data Analysis with Python** – freeCodeCamp  
 🎯 **Azure Devops Engineer (AZ-104)** *(In progress)*  
 
 ---
