@@ -73,8 +73,9 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 ## 🌐 Certifications  
 
 🏅 Microsoft **PL-300: Power BI Data Analyst**  
-🏅 **Data Analysis with Python** – freeCodeCamp  
-🎯 **Azure Data Engineer Associate (DP-203)** *(In progress)*  
+🏅 **Databricks fundamentals**
+🏅 **Data Analysis with Python** – freeCodeCamp
+🎯 **Azure Devops Engineer (AZ-104)** *(In progress)*  
 
 ---
 
