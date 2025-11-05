@@ -1,4 +1,4 @@
-![banner](Banner.png)
+![banner](Banner_Analytics.png)
 
 <h2 align="center">👋🏾 Hello, I'm <span style="color:#4682B4">Francis NOGO</span></h2>
 <p align="center">
@@ -9,7 +9,7 @@ Transforming data into <b>business value</b> through automation, analytics, and 
 
 ## 🧭 About Me  
 
-I'm a **certified Power BI Data Analyst** passionate about transforming data into actionable insights.  
+I'm a **certified Microsoft and databricks data analyst** passionate about transforming data into actionable insights.  
 I combine **data quality engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
 
 Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
@@ -24,11 +24,11 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 - Agile collaboration with cross-functional business teams  
 
 ### 💻 Technical Stack
-- **Languages:** Python (Pandas, Scikit-learn, PySpark), SQL (Advanced), DAX, M, R  
-- **Visualization:** Power BI, Qlik Sense, Excel  
-- **CRM & Marketing Analytics:** HubSpot, Google Analytics, Power BI Service
-- **Cloud & Engineering:** Azure Data Factory, Dataiku, SQL Server, PostgreSQL  
-- **Collaboration & DevOps:** GitHub, Trello, Confluence, Jira  
+- **Programming & Data:** Python, SQL (Advanced), DAX, M, R (basics)
+- **Business Intelligence:** Power BI, Qlik Sense, Google analytics, Excel 
+- **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
+- **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT, Dataiku 
+- **Collaboration :** Git/GitHub, Confluence, Jira  
 
 ---
 
