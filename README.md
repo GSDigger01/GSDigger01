@@ -12,7 +12,7 @@ Transforming data into <b>business value</b> through automation, analytics, and 
 I'm a **certified Microsoft and databricks data analyst** passionate about transforming data into actionable insights.  
 I combine **data quality engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
 
-Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
+Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
 
 ---
 
