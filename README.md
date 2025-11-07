@@ -2,17 +2,17 @@
 
 <h2 align="center">👋🏾 Hello, I'm <span style="color:#4682B4">Francis NOGO</span></h2>
 <p align="center">
-Transforming data into <b>business value</b> through automation, analytics, and storytelling.
+Building <b>robust and scalable data pipelines</b> and transforming data into <b>business value</b> .
 </p>
 
 ---
 
 ## 🧭 About Me  
 
-I'm a **modern BI data analytics** *certified Microsoft and databricks*, passionate about transforming data into actionable insights.  
+> I'm a **modern BI data analytics** *certified Microsoft and databricks*, passionate about transforming data into actionable insights.  
 I combine **data engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
 
-Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
+> Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
 
 ---
 
