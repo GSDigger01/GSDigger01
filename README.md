@@ -9,7 +9,7 @@ Transforming data into <b>business value</b> through automation, analytics, and 
 
 ## 🧭 About Me  
 
-I'm a **modern BI data analytics** *certified Microsoft and databricks *, passionate about transforming data into actionable insights.  
+I'm a **modern BI data analytics** *certified Microsoft and databricks*, passionate about transforming data into actionable insights.  
 I combine **data engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
 
 Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
@@ -35,7 +35,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 ## 🌐 Certifications  
 
 🏅 Microsoft **PL-300: Power BI Data Analyst**  
-🏅 **Databricks fundamentals** & ** Azure Databricks**
+🏅 **Databricks fundamentals** & **Azure Databricks**  
 🏅 **Data Analysis with Python** – freeCodeCamp  
 🎯 **DBT analytics engineer** *(In progress)*  
 ---
@@ -43,9 +43,9 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 ## 🚀 Highlighted Projects  
 
 ###  **Bank Customer Churn Prediction (Azure databricks + DBT + Power BI)**  
-> 🎯 **Goal:** Predict customer churn to optimize customer retention and lifetime value.
-> 🏆 **Impact:** End-to-end pipeline integrating data ingestion, transformation, and modeling — delivering actionable insights to marketing and product teams.
-> ⚙️ **Tech Stack:** Azure Databricks (Auto Loader + Delta Lake + DLT), DBT (Gold Layer Modeling), Python, Logic Apps (Alerts), Power BI .
+> 🎯 **Goal:** Predict customer churn to optimize customer retention and lifetime value.  
+> 🏆 **Impact:** End-to-end pipeline integrating data ingestion, transformation, and modeling — delivering actionable insights to marketing and product teams.  
+> ⚙️ **Tech Stack:** Azure Databricks (Auto Loader + Delta Lake + DLT), DBT (Gold Layer Modeling), Python, Logic Apps (Alerts), Power BI .  
 
 📈 *(Coming soon on GitHub)*
 
