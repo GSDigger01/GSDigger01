@@ -9,8 +9,8 @@ Transforming data into <b>business value</b> through automation, analytics, and 
 
 ## 🧭 About Me  
 
-I'm a **certified Microsoft and databricks data analyst** passionate about transforming data into actionable insights.  
-I combine **data quality engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
+I'm a **modern BI data analytics** *certified Microsoft and databricks *, passionate about transforming data into actionable insights.  
+I combine **data engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
 
 Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
 
@@ -27,55 +27,62 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 - **Programming & Data:** Python, SQL (Advanced), DAX, M, R (basics)
 - **Business Intelligence:** Power BI, Qlik Sense, Google analytics, Excel 
 - **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
-- **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT, Dataiku 
+- **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT, Snowflake 
 - **Collaboration :** Git/GitHub, Confluence, Jira  
-
----
-
-## 🚀 Highlighted Projects  
-
-###  **Expense Analysis – ETL & Power BI Dashboard**  
-> **Goal:** Build a full ETL pipeline and financial dashboard with end-to-end data modeling.  
-> **Impact:** Automated data refresh & standardized reporting improving financial oversight.  
-**Tech Stack:** SQL Server, Power BI, Figma, Tabular Editor  
-
-📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Expenses-Analysis-SQLServer)
-
----
-
-###  **Store & Customers Analysis with Power BI**  
-> **Goal:** Perform RFM segmentation to target high-value customers.  
-> **Impact:** Improved marketing efficiency via advanced Power BI visual storytelling.  
-**Tech Stack:** Python, Power BI Services, Figma, Tabular Editor  
-
-📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Fashion-store-analysis)
-
----
-
-###  **Customer Segmentation & RFM Analysis (Python)**  
-> **Goal:** Identify customer behavior patterns and loyalty segments using RFM metrics.  
-> **Impact:** Personalized retention strategies and improved campaign ROI.  
-**Tech Stack:** Python, Plotly, Jupyter Notebook  
-
-📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/RFM-Segmentation)
-
----
-
-###  **Bank Customer Churn Prediction (Dataiku + Power BI)**  
-> **Goal:** Predict customer churn to support retention strategy.  
-> **Impact:** Dataiku pipeline integrating ML model & business dashboards.  
-**Tech Stack:** Dataiku, Python, Scikit-learn, Power BI  
-
-📈 *(Coming soon on GitHub)*
 
 ---
 
 ## 🌐 Certifications  
 
 🏅 Microsoft **PL-300: Power BI Data Analyst**  
-🏅 **Databricks fundamentals**  
+🏅 **Databricks fundamentals** & ** Azure Databricks**
 🏅 **Data Analysis with Python** – freeCodeCamp  
-🎯 **Azure Devops Engineer (AZ-104)** *(In progress)*  
+🎯 **DBT analytics engineer** *(In progress)*  
+---
+
+## 🚀 Highlighted Projects  
+
+###  **Bank Customer Churn Prediction (Azure databricks + DBT + Power BI)**  
+> 🎯 **Goal:** Predict customer churn to optimize customer retention and lifetime value.
+> 🏆 **Impact:** End-to-end pipeline integrating data ingestion, transformation, and modeling — delivering actionable insights to marketing and product teams.
+> ⚙️ **Tech Stack:** Azure Databricks (Auto Loader + Delta Lake + DLT), DBT (Gold Layer Modeling), Python, Logic Apps (Alerts), Power BI .
+
+📈 *(Coming soon on GitHub)*
+
+---
+
+###  **Expense Analysis – ETL & Power BI Dashboard**  
+> 🎯 **Goal:** Build a full ETL pipeline and financial dashboard with end-to-end data modeling.  
+> 🏆 **Impact:** Automated data refresh & standardized reporting improving financial oversight.  
+> ⚙️ **Tech Stack:** SQL Server, Power BI, Figma, Tabular Editor  
+
+📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Expenses-Analysis-SQLServer)
+
+---
+
+###  **Amazon API - Stack Docker - ELK**  
+> 🎯 **Goal:**Installation/configuration of ELK with Docker and automation of data retrieval on Amazon's API.  
+> 🏆 **Impact:** Data storage, querying (No-SQL) and analysis for BI purposes.  
+> ⚙️ **Tech Stack:** Python,Docker compose, ELK (Elasticsearch, Logstash), job scheduler
+
+📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Stack-ELK-Docker)
+
+---
+###  **Retail Store & Customers Analysis with Power BI**  
+> 🎯 **Goal:** Perform RFM segmentation to target high-value customers.  
+> 🏆 **Impact:** Improved marketing efficiency via advanced Power BI visual storytelling.  
+> ⚙️ **Tech Stack:** Python, Power BI Services, Figma, Tabular Editor  
+
+📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Fashion-store-analysis)
+
+---
+
+###  **Customer Segmentation & RFM Analysis (Python)**  
+> 🎯 **Goal:** Identify customer behavior patterns and loyalty segments using RFM metrics.  
+> 🏆 **Impact:** Personalized retention strategies and improved campaign ROI.  
+> ⚙️ **Tech Stack:** Python, Plotly, Jupyter Notebook  
+
+📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/RFM-Segmentation)
 
 ---
 
