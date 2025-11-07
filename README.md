@@ -19,25 +19,25 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 ## ⚙️ Core Skills
 
 ### 🧠 Functional Expertise
-- Requirements gathering & data-driven project management  
-- BI architecture design (Data Warehouse, Data Quality, Pipelines, Reporting)  
-- Agile collaboration with cross-functional business teams  
+> - Collect and formalise business requirements (user stories) to transform them into technical specifications    
+> - Design, maintain and optimise BI solutions (medallion architecture): ETL/ELT pipelines, warehouses and Delta Lake tables, analytical dashboards.  
+> - Ensure communication between technical and business teams to guarantee the operational use of data.
 
 ### 💻 Technical Stack
-- **Programming & Data:** Python, SQL (Advanced), DAX, M, R (basics)
-- **Business Intelligence:** Power BI, Qlik Sense, Google analytics, Excel 
-- **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
-- **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT, Snowflake 
-- **Collaboration :** Git/GitHub, Confluence, Jira  
+> - **Programming & Data:** Python, SQL (*Advanced*), DAX, M, R (*Advanced statistics*)
+> - **Business Intelligence:** Power BI, Qlik Sense, Google analytics, Excel 
+> - **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
+> - **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT, Snowflake 
+> - **Collaboration :** Git/GitHub, Confluence, Jira  
 
 ---
 
 ## 🌐 Certifications  
 
-🏅 Microsoft **PL-300: Power BI Data Analyst**  
-🏅 **Databricks fundamentals** & **Azure Databricks**  
-🏅 **Data Analysis with Python** – freeCodeCamp  
-🎯 **DBT analytics engineer** *(In progress)*  
+> 🏅 **Microsoft PL-300: Power BI Data Analyst**  
+> 🏅 **Databricks fundamentals** & **Azure Databricks**  
+> 🏅 **Data Analysis with Python** – freeCodeCamp  
+> 🎯 **DBT analytics engineer** *(In progress)*  
 ---
 
 ## 🚀 Highlighted Projects  
@@ -45,7 +45,7 @@ Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — f
 ###  **Bank Customer Churn Prediction (Azure databricks + DBT + Power BI)**  
 > 🎯 **Goal:** Predict customer churn to optimize customer retention and lifetime value.  
 > 🏆 **Impact:** End-to-end pipeline integrating data ingestion, transformation, and modeling — delivering actionable insights to marketing and product teams.  
-> ⚙️ **Tech Stack:** Azure Databricks (Auto Loader + Delta Lake + DLT), DBT (Gold Layer Modeling), Python, Logic Apps (Alerts), Power BI .  
+> ⚙️ **Tech Stack:** Azure Databricks (*Auto Loader + Delta Lake + DLT*), DBT (*Gold Layer Modeling*), Python, Logic Apps (*Alerts*), Power BI .  
 
 📈 *(Coming soon on GitHub)*
 
