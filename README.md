@@ -25,9 +25,9 @@ I combine **data engineering, BI design, and analytics storytelling** to empower
 
 ### 💻 Technical Stack
 > - **Programming & Data:** Python, SQL (*Advanced*), DAX, M, R (*Advanced statistics*)
-> - **Business Intelligence:** Power BI, Qlik Sense, Google analytics, Excel 
+> - **Business Intelligence:** Power BI, Qlik Sense/Cloud, Google analytics, Excel 
 > - **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
-> - **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT, Snowflake 
+> - **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT,SSIS, Snowflake 
 > - **Collaboration :** Git/GitHub, Confluence, Jira  
 
 ---
@@ -87,6 +87,9 @@ I combine **data engineering, BI design, and analytics storytelling** to empower
 ---
 
 ## 💼 Experience Snapshot  
+
+#### **PlayPlay** – *Analytics Engineer (Product & Marketing)*    
+>🧩 Management and reliability improvement of Product and Marketing data marts, as well as analytical pipelines (Snowflake/dbt/Power BI).
 
 #### **Bullart Business Academy** – *Data Training Consultant*  
 >🧩 Facilitated workshops to introduce entrepreneurs and professionals to key data concepts.  
