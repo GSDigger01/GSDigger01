@@ -2,33 +2,34 @@
 
 <h2 align="center">👋🏾 Hello, I'm <span style="color:#4682B4">Francis NOGO</span></h2>
 <p align="center">
-Building <b>robust and scalable data pipelines</b> and transforming data into <b>business value</b> .
+Building <b>robust, scalable, and governed data pipelines</b> to transform trusted data into <b>business value</b>.
 </p>
 
 ---
 
 ## 🧭 About Me  
 
-> I'm a **modern BI data analytics** *certified Microsoft and databricks*, passionate about transforming data into actionable insights.  
-I combine **data engineering, BI design, and analytics storytelling** to empower marketing, sales, and product teams with reliable decision tools.  
+> I'm a **Data & Analytics Engineer** *certified Microsoft, Databricks and dbt* passionate about building high-quality data foundations that drive actionable insights.  
+I combine **data engineering, BI design, and data governance principles** to empower marketing, sales, and product teams with reliable decision tools.  
 
-> Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — with a balance of **technical precision** and **business acumen**.  
+> Currently based in **Paris 🇫🇷**, I build **scalable data solutions** — from **ETL/ELT pipelines to dynamic dashboards** — ensuring **Data Quality** at every step to balance **technical precision** with **business strategy**.  
 
 ---
 
 ## ⚙️ Core Skills
 
 ### 🧠 Functional Expertise
-> - Collect and formalise business requirements (user stories) to transform them into technical specifications    
-> - Design, maintain and optimise BI solutions (medallion architecture): ETL/ELT pipelines, warehouses and Delta Lake tables, analytical dashboards.  
-> - Ensure communication between technical and business teams to guarantee the operational use of data.
+
+> - **Implement Data Quality frameworks and advocate for Data Governance best practices** to ensure data reliability, trust, and compliance.  
+> - Design, and optimize BI solutions (Medallion architecture): data warehouses, Delta Lake tables, and analytical dashboards.  
+> - Ensure seamless communication between technical and business teams to guarantee the operational use of data.  
 
 ### 💻 Technical Stack
 > - **Programming & Data:** Python, SQL (*Advanced*), DAX, M, R (*Advanced statistics*)
-> - **Business Intelligence:** Power BI, Qlik Sense/Cloud, Google analytics, Excel 
+> - **Business Intelligence:** Power BI, Qlik Sense/Cloud, Google Analytics, Excel 
 > - **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
-> - **Cloud & data Engineering:** Azure Data Factory, Delta lake, Databricks, DBT,SSIS, Snowflake 
-> - **Collaboration :** Git/GitHub, Confluence, Jira  
+> - **Cloud & Data Engineering:** Azure Data Factory, Delta Lake, Databricks, dbt, SSIS, Snowflake 
+> - **Collaboration:** Git/GitHub, Confluence, Jira 
 
 ---
 
@@ -37,7 +38,7 @@ I combine **data engineering, BI design, and analytics storytelling** to empower
 > 🏅 **Microsoft PL-300: Power BI Data Analyst**  
 > 🏅 **Databricks fundamentals** & **Azure Databricks**  
 > 🏅 **Data Analysis with Python** – freeCodeCamp  
-> 🎯 **DBT analytics engineer** *(In progress)*  
+> 🏅 **DBT Fundamentals**     
 ---
 
 ## 🚀 Highlighted Projects  
