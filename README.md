@@ -28,7 +28,7 @@ I combine **data engineering, BI design, and data governance principles** to emp
 > - **Programming & Data:** Python, SQL (*Advanced*), DAX, M, R (*Advanced statistics*)
 > - **Business Intelligence:** Power BI, Qlik Sense/Cloud, Google Analytics, Excel 
 > - **Data Integration & API:** Postman, Power Automate, Azure Logic Apps, HubSpot
-> - **Cloud & Data Engineering:** Azure Data Factory, Delta Lake, Databricks, dbt, SSIS, Snowflake 
+> - **Cloud & Data Engineering:** Azure Data Factory, dbt, SSIS, Snowflake 
 > - **Collaboration:** Git/GitHub, Confluence, Jira 
 
 ---
@@ -43,10 +43,10 @@ I combine **data engineering, BI design, and data governance principles** to emp
 
 ## 🚀 Highlighted Projects  
 
-###  **Bank Customer Churn Prediction (Azure databricks + DBT + Power BI)**  
-> 🎯 **Goal:** Predict customer churn to optimize customer retention and lifetime value.  
-> 🏆 **Impact:** End-to-end pipeline integrating data ingestion, transformation, and modeling — delivering actionable insights to marketing and product teams.  
-> ⚙️ **Tech Stack:** Azure Databricks (*Auto Loader + Delta Lake + DLT*), DBT (*Gold Layer Modeling*), Python, Logic Apps (*Alerts*), Power BI .  
+###  **PME Data Quality Pipeline (Airflow + dbt Core + PostgreSQL + Slack)**  
+> 🎯 **Goal:** Build a production-ready data quality pipeline for a fictitious B2B office supplies SME — automating ingestion, transformation, and business-rule validation across a full star schema.   
+> 🏆 **Impact:** End-to-end pipeline delivering clean, tested analytics-ready data — with automated Slack alerts on failures, dbt lineage documentation, and KPI views directly consumable by Power BI.    
+> ⚙️ **Tech Stack:** Apache Airflow 2.9 (DAG orchestration + LocalExecutor), dbt Core , PostgreSQL 15, Python, Docker, Power BI , Slack .    
 
 📈 *(Coming soon on GitHub)*
 
@@ -89,8 +89,8 @@ I combine **data engineering, BI design, and data governance principles** to emp
 
 ## 💼 Experience Snapshot  
 
-#### **PlayPlay** – *Analytics Engineer (Product & Marketing)*    
->🧩 Management and reliability improvement of Product and Marketing data marts, as well as analytical pipelines (Snowflake/dbt/Power BI).
+#### **ASC-BI** – *Analytics Engineer*    
+>🧩 Management and reliability improvement of Product and Marketing data marts, as well as analytical pipelines (Snowflake/dbt/Power BI).  
 
 #### **Bullart Business Academy** – *Data Training Consultant*  
 >🧩 Facilitated workshops to introduce entrepreneurs and professionals to key data concepts.  
