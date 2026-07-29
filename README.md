@@ -52,8 +52,8 @@ I combine **data engineering, BI design, and data governance principles** to emp
 
 ---
 
-###  **Expense Analysis – ETL & Power BI Dashboard**  
-> 🎯 **Goal:** Build a full ETL pipeline and financial dashboard with end-to-end data modeling.  
+###  **Expense Analysis (SQL server with stored prodedures + Power BI Dashboard**  
+> 🎯 **Goal:** Build a full ETL pipeline (layer architecture) and financial dashboard with end-to-end data modeling from scratch.  
 > 🏆 **Impact:** Automated data refresh & standardized reporting improving financial oversight.  
 > ⚙️ **Tech Stack:** SQL Server, Power BI, Figma, Tabular Editor  
 
