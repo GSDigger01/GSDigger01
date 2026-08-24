@@ -48,7 +48,7 @@ I combine **data engineering, BI design, and data governance principles** to emp
 > 🏆 **Impact:** End-to-end pipeline delivering clean, tested analytics-ready data — with automated Slack alerts on failures, dbt lineage documentation, and KPI views directly consumable by Power BI.    
 > ⚙️ **Tech Stack:** Apache Airflow 2.9 (DAG orchestration + LocalExecutor), dbt Core , PostgreSQL 15, Python, Docker, Power BI , Slack .    
 
-📈 *(Coming soon on GitHub)*
+🏗️ [🔗 View Project on GitHub](https://github.com/GSDigger01/Pme-Data-Quality-Pipeline)
 
 ---
 
@@ -66,7 +66,7 @@ I combine **data engineering, BI design, and data governance principles** to emp
 > 🏆 **Impact:** Data storage, querying (No-SQL) and analysis for BI purposes.  
 > ⚙️ **Tech Stack:** Python,Docker compose, ELK (Elasticsearch, Logstash), job scheduler
 
-📊 [🔗 View Project on GitHub](https://github.com/GSDigger01/Stack-ELK-Docker)
+🏗️ [🔗 View Project on GitHub](https://github.com/GSDigger01/Stack-ELK-Docker)
 
 ---
 ###  **Retail Store & Customers Analysis with Power BI**  
