@@ -5,6 +5,12 @@
 Building <b>robust, scalable, and governed data pipelines</b> to transform trusted data into <b>business value</b>.
 </p>
 
+<p align="center">
+  <a href="https://gsdigger01.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-View_live_site-1B2029?style=for-the-badge&labelColor=1B2029&color=E3B65B" />
+  </a>
+</p>
+
 ---
 
 ## 🧭 About Me  
